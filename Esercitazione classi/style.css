@@ -1,0 +1,38 @@
+
+
+.misure 
+{
+    height: 80px;
+    width: 150px;
+    
+}
+
+.color1  {
+background-color: brown;
+}
+
+.color2  {
+background-color: rgb(83, 42, 165);
+}
+
+@media  (min-width: 768px) {
+  .misure
+  {
+
+    height: 30px;
+    width: 90px;
+    
+  }
+
+    .color1  {
+    background-color: rgb(116, 165, 42);
+    }
+
+    .color2  {
+    background-color: rgb(165, 42, 54);
+    }
+
+
+
+  }
+

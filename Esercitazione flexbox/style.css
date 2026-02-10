@@ -1,0 +1,38 @@
+.cards{
+  display: flex;
+  flex-direction:row;
+  justify-content: center;
+  align-items: center,
+}
+
+.card1{
+  background-color:#b9f89b;
+  border-radius: 7px;
+  width: 600px;
+  height: 200px;
+  margin: 10px;
+}
+
+.card2{
+  background-color:#f48486;
+  border-radius: 7px;
+   width: 600px;
+  height: 500px;
+   margin: 10px
+}
+
+.card3{
+  background-color:#f89bef;
+  border-radius: 7px;
+   width: 600px;
+  height: 100px;
+  margin:10px
+}
+
+.card4{
+  background-color:#e7f89b;
+  border-radius: 7px;
+   width: 600px;
+  height: 300px;
+  margin: 10px;
+}

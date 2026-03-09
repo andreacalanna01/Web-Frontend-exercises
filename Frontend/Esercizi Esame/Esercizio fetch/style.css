@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color: #f4f4f9;
+}
+
+h1 {
+    color: #333;
+}
+
+.controls {
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    background: #007bff;
+    color: white;
+    margin-right: 10px;
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+#container {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 15px;
+}
+
+.user-card {
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    background-color: white;
+    transition: background-color 0.3s ease;
+}
+
+.user-card h3 {
+    margin: 0 0 10px 0;
+    font-size: 1.1rem;
+}
+
+.user-card p {
+    margin: 0;
+    color: #666;
+    font-size: 0.9rem;
+}
+
+.card-bg-active {
+    background-color: #9e66ff;
+}

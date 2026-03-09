@@ -1,0 +1,35 @@
+.boxBlue{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+
+#boxGreen{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
+
+button{
+    background-color: rgb(103, 16, 78);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    width: 70px;
+    height: 50px;
+}
+
+.cambio1{
+    background-color: rgb(87, 176, 9);
+    width: 200px;
+    height: 200px;
+}
+
+
+
+.cambio3{
+    background-color: rgb(176, 9, 45);
+    width: 200px;
+    height: 200px;
+}

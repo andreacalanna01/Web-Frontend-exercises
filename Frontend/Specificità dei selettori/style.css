@@ -1,0 +1,27 @@
+div
+{
+background-color: blueviolet !important;
+height: 100px;
+width: 100px;
+}
+
+#prova
+{
+background-color: rgb(43, 122, 226);
+height: 100px;
+width: 100px;
+}
+
+.div
+{
+background-color: rgb(226, 43, 58);
+height: 100px;
+width: 100px;
+}
+
+.div
+{
+background-color: rgb(43, 226, 67);
+height: 100px;
+width: 100px;
+}
